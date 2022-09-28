@@ -27,5 +27,5 @@ Filled out a checklist with these requirements and wrote bug reports.
   
 Look to Checklist.pdf and Bugreport.pdf
 
-  [And of course, a link to a ready working site ](https://lucky-entremet-d8185b.netlify.app/)
+  [And of course, a link to a ready working site ](https://lucky-entremet-d8185b.netlify.app/) check it out and run the goose to defend Ukraine haha
 
